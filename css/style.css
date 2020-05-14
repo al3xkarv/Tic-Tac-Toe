@@ -1,0 +1,61 @@
+
+/* body{
+  background-color:bisque;
+} */
+h1 {
+  text-align: center;
+  font-family: Impact, sans-serif ;
+  font-size: 35px;            
+}
+h1:hover{
+color: rebeccapurple;
+}
+div img:hover{
+opacity:0.5; 
+}
+.first{
+  position: relative;
+  top: 500px;
+  left: 50px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-family: Impact, sans-serif;
+  width:auto;
+  height:auto;
+  }
+.second{position: relative;
+  top: 500px;
+  left: 50px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-family: Impact, sans-serif;
+  width:auto;
+  height:auto;
+  }  
+
+.grid-container {
+  position:relative;
+  bottom: 50px;
+
+  display: grid;
+  width:770px;
+  height:770px;
+  grid-template-columns: 250px 250px 250px ;
+  grid-template-rows: 250px 250px 250px;
+  grid-gap: 10px;
+  background-color: gray;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.photo>img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  
+}
+
