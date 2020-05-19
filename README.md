@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-Simple Tic Tac Toe game, uploaded as my first app.
+A simple Tic Tac Toe game, uploaded as my first web app.
+
+#Difficulty
+Can't Win.
