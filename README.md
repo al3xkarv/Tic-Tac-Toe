@@ -12,3 +12,11 @@ Can't Win.
 
 ## Instalation 
 To play the game, simply download or clone the repository and open index.html
+
+## Authors
+
+Alexander karvounis - al3xkarv
+
+## Licence
+
+This project is licensed under the GNU General Public License v3.0
