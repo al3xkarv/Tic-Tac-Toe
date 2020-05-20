@@ -9,3 +9,6 @@ Can't Win.
 
 ## In-game
 ![Tic Tac Toe example 2](/img/tic_tac_toe2.jpg)
+
+## Instalation 
+To play the game, simply download or clone the repository and open index.html
