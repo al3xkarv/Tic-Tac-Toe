@@ -15,8 +15,8 @@ To play the game, simply download or clone the repository and open index.html
 
 ## Authors
 
-Alexander karvounis - al3xkarv
+Alex Karvounis - [al3xkarv](https://github.com/al3xkarv)
 
-## Licence
+## License
 
 This project is licensed under the GNU General Public License v3.0
